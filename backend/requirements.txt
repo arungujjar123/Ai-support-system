@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pymongo
+langchain
+langchain-classic
+langchain-community
+langchain-groq
+langchain-text-splitters
+python-dotenv
